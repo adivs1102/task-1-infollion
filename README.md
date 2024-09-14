@@ -26,8 +26,8 @@ Ensure you have Node.js and npm (or yarn) installed on your machine. You can dow
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/dynamic-form.git
-   cd dynamic-form
+   git clone https://github.com/yourusername/task-1-infollion.git
+   cd task-1-infollion
    ```
 
 2. **Install Dependencies**
@@ -70,10 +70,6 @@ Ensure you have Node.js and npm (or yarn) installed on your machine. You can dow
 ## Styling
 
 The app is styled using CSS to provide a clean and user-friendly interface. Refer to the `App.css` file for details on the styles used.
-
-## Local Storage
-
-The app uses local storage to persist the state of the form. This allows users to return to the form without losing their progress.
 
 ## Code Structure
 
