@@ -1,3 +1,4 @@
+Here's a README template specifically tailored for a Vite-powered React application:
 
 ---
 
@@ -13,6 +14,7 @@ This React application, built using Vite, allows users to create dynamic forms w
 - **Delete Questions**: Remove questions and their children.
 - **Hierarchical Numbering**: Auto-number questions in a hierarchical format (e.g., Q1, Q1.1, Q1.1.1).
 - **Form Submission**: Display all questions in a hierarchical format upon submission.
+- **Local Storage Persistence**: Save and load the form state using local storage.
 
 ## Getting Started
 
@@ -25,7 +27,7 @@ Ensure you have Node.js and npm (or yarn) installed on your machine. You can dow
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/task-1-infollion.git
+   git clone https://github.com/adivs1102/task-1-infollion.git
    cd task-1-infollion
    ```
 
@@ -69,6 +71,10 @@ Ensure you have Node.js and npm (or yarn) installed on your machine. You can dow
 ## Styling
 
 The app is styled using CSS to provide a clean and user-friendly interface. Refer to the `App.css` file for details on the styles used.
+
+## Local Storage
+
+The app uses local storage to persist the state of the form. This allows users to return to the form without losing their progress.
 
 ## Code Structure
 
