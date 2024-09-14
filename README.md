@@ -13,7 +13,6 @@ This React application, built using Vite, allows users to create dynamic forms w
 - **Delete Questions**: Remove questions and their children.
 - **Hierarchical Numbering**: Auto-number questions in a hierarchical format (e.g., Q1, Q1.1, Q1.1.1).
 - **Form Submission**: Display all questions in a hierarchical format upon submission.
-- **Local Storage Persistence**: Save and load the form state using local storage.
 
 ## Getting Started
 
@@ -54,7 +53,7 @@ Ensure you have Node.js and npm (or yarn) installed on your machine. You can dow
    yarn dev
    ```
 
-   Open `http://localhost:3000` in your browser to view the app.
+   Open `http://localhost:5173` in your browser to view the app.
 
 ## Usage
 
